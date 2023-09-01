@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rekik</h1>
 <h3 align="center">A junior machine learning engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fasliddinovbehzodjon&psig=AOvVaw0-s4DEXB8ClLEVxNu7RHpK&ust=1693665449955000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiFstTRiYEDFQAAAAAdAAAAABAD">
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **rekik_mohamed@outlook.fr**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-rekik-97aab5248/overlay/1635530921744/single-media-viewer?type=DOCUMENT&profileId=ACoAAD1jGi4BggHDuFoOJXNEhWRAl-OB9osw-3k&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bw0Afhp3%2BRgOHV9T7J6zniA%3D%3D](https://www.linkedin.com/in/mohamed-rekik-97aab5248/overlay/1635530921744/single-media-viewer?type=DOCUMENT&profileId=ACoAAD1jGi4BggHDuFoOJXNEhWRAl-OB9osw-3k&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bw0Afhp3%2BRgOHV9T7J6zniA%3D%3D)
+- 📄 Know about my experiences [CV_Mohamed_Rekik](https://www.linkedin.com/in/mohamed-rekik-97aab5248/overlay/1635530921744/single-media-viewer?type=DOCUMENT&profileId=ACoAAD1jGi4BggHDuFoOJXNEhWRAl-OB9osw-3k&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bw0Afhp3%2BRgOHV9T7J6zniA%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
