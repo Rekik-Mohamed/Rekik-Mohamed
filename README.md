@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rekik</h1>
-<h3 align="center">A junior machine learning engineer from Tunisia</h3>
+<h3 align="center">A computer engineering student from Tunisia</h3>
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **rekik_mohamed@outlook.fr**
