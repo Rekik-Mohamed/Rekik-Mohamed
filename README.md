@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rekik</h1>
 <h3 align="center">A junior machine learning engineer from Tunisia</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fasliddinovbehzodjon&psig=AOvVaw0-s4DEXB8ClLEVxNu7RHpK&ust=1693665449955000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiFstTRiYEDFQAAAAAdAAAAABAD">
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **rekik_mohamed@outlook.fr**
